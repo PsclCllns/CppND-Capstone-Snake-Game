@@ -5,9 +5,15 @@ In addition to the usual Snake game, the option to add obstacles to the playgrou
 The obstacles can be placed freely and also new object shapes can be created.
 
 Following criteria of the rubric have been met:
-1. 
+1. The project uses Object Oriented Programming techniques.
+2. Classes use appropriate access specifiers for class members.
+3. Derived class functions override virtual base class functions.
+4. The project makes use of references in function declarations.
+5. The project uses smart pointers instead of raw pointers.
+6. The project demonstrates an understanding of C++ functions and control structures.
+7. ...
 
-
+<img src="Unbenannt.JPG"/>
 ## Overview
 This is a starter repo for the Capstone project in the [Udacity C++ Nanodegree Program](https://www.udacity.com/course/c-plus-plus-nanodegree--nd213). The code for this repo was inspired by [this](https://codereview.stackexchange.com/questions/212296/snake-game-in-c-with-sdl) excellent StackOverflow post and set of responses.
 
